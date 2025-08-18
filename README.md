@@ -2,9 +2,10 @@
 
 This is my **personal portfolio website** showcasing my projects, skills, and experiences.  
 Built with **HTML, CSS, and JavaScript**, the website follows a **modern, elegant dark theme** with smooth transitions and responsive design.  
+
+---
 Link : https://adnans-portfolio.vercel.app/
 ---
-
 ## ✨ Features
 - 🖤 Elegant Dark UI with Purple & Pink Accent  
 - 📱 Fully Responsive (Mobile + Desktop)  
