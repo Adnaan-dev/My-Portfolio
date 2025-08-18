@@ -37,8 +37,7 @@ Built with **HTML, CSS, and JavaScript**, the website follows a **modern, elegan
 ![Projects](<img width="947" height="674" alt="Image" src="https://github.com/user-attachments/assets/0a5f1d8b-103b-4726-a3a0-a1f5f60f0482" />)
 
 ### 🛠️ Skills Section
-![Skills](<img width="1254" height="611" alt="Image" src="https://github.com/user-attachments/assets/c0be292b-5a2e-4661-aa20-39ebedcecc17" />
-)
+![Skills](<img width="1254" height="611" alt="Image" src="https://github.com/user-attachments/assets/c0be292b-5a2e-4661-aa20-39ebedcecc17" />)
 
 ---
 
