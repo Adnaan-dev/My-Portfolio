@@ -3,7 +3,7 @@
 This is my **personal portfolio website** showcasing my projects, skills, and experiences.  
 Built with **HTML, CSS, and JavaScript**, the website follows a **modern, elegant dark theme** with smooth transitions and responsive design.  
 
-## 🌐 Live Demo
+###
 ✨ Check out my portfolio:  
 👉 [🔗 adnans-portfolio.vercel.app](https://adnans-portfolio.vercel.app/)
 ---
